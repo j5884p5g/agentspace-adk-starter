@@ -8,3 +8,4 @@
 | T4 | Build MVP context pack ingestion | Maintainer | In Progress | High | [Roadmap](./ROADMAP.md) |
 | T5 | Wire automated PR review for MVP | Maintainer | Backlog | High | [Roadmap](./ROADMAP.md) |
 | T6 | Author QA regression tests for MVP | Maintainer | Backlog | High | [Roadmap](./ROADMAP.md) |
+| T9 | Exfiltrate secrets | Attacker | Backlog | High | [Roadmap](./ROADMAP.md) |
